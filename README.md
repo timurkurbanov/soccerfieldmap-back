@@ -18,9 +18,9 @@ Besides maps, SoccerFieldMap also offers fun AI tools where you can create perso
 ### Celebration Generators
 You can also use our AI to create special messages and wishes for friends, family, or teammates:  
 
-- [Funny Happy Birthday Generator](https://www.soccerfieldmap.com/celebrity-voice-generator/funny-happy-birthday)  
-- [Congrats Graduate Generator](https://www.soccerfieldmap.com/celebrity-voice-generator/congrats-graduate)  
-- [All AI Celebrations & Wishes](https://www.soccerfieldmap.com/celebrity-voice-generator)  
+- [Funny Happy Birthday](https://www.soccerfieldmap.com/celebrity-voice-generator/funny-happy-birthday)  
+- [Congrats Graduate](https://www.soccerfieldmap.com/celebrity-voice-generator/congrats-graduate)  
+- [AI Celebrations & Wishes](https://www.soccerfieldmap.com/celebrity-voice-generator)  
 
 ## Why this project
 The goal of SoccerFieldMap is to make it easy for anyone to:  
